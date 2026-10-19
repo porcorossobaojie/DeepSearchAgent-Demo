@@ -1,0 +1,10 @@
+{
+  "blocks": {
+    "python": 44,
+    "csharp": 44
+  },
+  "execution_statements_unchanged": true,
+  "python_syntax": "passed",
+  "csharp": "Compared executable text after removing comments and nonsemantic whitespace; not compiled against LEAN.",
+  "trading_requests_executed": false
+}
